@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-01-20T03:14:31.555Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="4GsWix5kUEdr7AoE1U7Q" version="14.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-01-20T03:55:24.639Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36" etag="g4HCi14L6wyPYusiraHD" version="14.2.5" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="1204" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="826" background="#ffffff" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="bWuk8rQy6wunyqJOEJpp-93" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="2" source="bWuk8rQy6wunyqJOEJpp-49" target="bWuk8rQy6wunyqJOEJpp-91">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWuk8rQy6wunyqJOEJpp-49" value="触点商城首页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+        <mxCell id="bWuk8rQy6wunyqJOEJpp-49" value="触点商城首页" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="2">
           <mxGeometry x="82.25" y="122" width="120" height="38" as="geometry" />
         </mxCell>
         <mxCell id="bWuk8rQy6wunyqJOEJpp-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="2" source="bWuk8rQy6wunyqJOEJpp-49" target="bWuk8rQy6wunyqJOEJpp-49">
@@ -25,10 +25,10 @@
             <mxPoint x="140" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWuk8rQy6wunyqJOEJpp-87" value="提交订单" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+        <mxCell id="bWuk8rQy6wunyqJOEJpp-87" value="提交订单" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="2">
           <mxGeometry x="94.75" y="350" width="95" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="bWuk8rQy6wunyqJOEJpp-91" value="分享" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="2">
+        <mxCell id="bWuk8rQy6wunyqJOEJpp-91" value="分享" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="2">
           <mxGeometry x="260" y="111" width="95" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bWuk8rQy6wunyqJOEJpp-86" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="2" source="bWuk8rQy6wunyqJOEJpp-49" target="bWuk8rQy6wunyqJOEJpp-87">
@@ -39,17 +39,17 @@
         <mxCell id="bWuk8rQy6wunyqJOEJpp-88" value="提交订单入参新增&lt;br&gt;携带发展人id" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="2">
           <mxGeometry x="77.25" y="233" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="bWuk8rQy6wunyqJOEJpp-95" value="是否有触点人ID" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="2">
+        <mxCell id="bWuk8rQy6wunyqJOEJpp-95" value="是否有触点人ID" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="2">
           <mxGeometry x="420" y="100" width="110" height="81" as="geometry" />
         </mxCell>
-        <mxCell id="bWuk8rQy6wunyqJOEJpp-107" value="无&amp;nbsp; &amp;nbsp; 分享链接携带的发展人ID为当前发展人ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
-          <mxGeometry x="550" y="213" width="190" height="20" as="geometry" />
+        <mxCell id="bWuk8rQy6wunyqJOEJpp-107" value="无&amp;nbsp; &amp;nbsp; 分享链接携带的发展人ID为当前发展人ID" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+          <mxGeometry x="535" y="201.5" width="190" height="47" as="geometry" />
         </mxCell>
-        <mxCell id="bWuk8rQy6wunyqJOEJpp-106" value="有&amp;nbsp; &amp;nbsp;分享链接携带的发展人ID为触点ID" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
-          <mxGeometry x="560" y="70" width="180" height="20" as="geometry" />
+        <mxCell id="bWuk8rQy6wunyqJOEJpp-106" value="有&amp;nbsp; &amp;nbsp;分享链接携带的发展人ID为触点ID" style="text;html=1;strokeColor=#d79b00;fillColor=#ffe6cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2">
+          <mxGeometry x="540" y="60" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="3" value="Thread 2" style="swimlane;whiteSpace=wrap" parent="1" vertex="1">
-          <mxGeometry x="280" y="770" width="280" height="570" as="geometry" />
+          <mxGeometry x="467.25" y="620" width="280" height="570" as="geometry" />
         </mxCell>
         <mxCell id="bWuk8rQy6wunyqJOEJpp-66" value="查询是否触点" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="260" width="90" height="20" as="geometry" />
@@ -79,8 +79,8 @@
             <mxPoint x="800" y="281" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="bWuk8rQy6wunyqJOEJpp-96" value="微信等" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="1110" y="100" width="100" height="80" as="geometry" />
+        <mxCell id="bWuk8rQy6wunyqJOEJpp-96" value="微信等" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="100" width="100" height="80" as="geometry" />
         </mxCell>
         <mxCell id="bWuk8rQy6wunyqJOEJpp-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="bWuk8rQy6wunyqJOEJpp-95">
           <mxGeometry relative="1" as="geometry">
@@ -93,7 +93,7 @@
         <mxCell id="bWuk8rQy6wunyqJOEJpp-109" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWuk8rQy6wunyqJOEJpp-85" target="bWuk8rQy6wunyqJOEJpp-49">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bWuk8rQy6wunyqJOEJpp-85" value="&lt;span&gt;m站/手厅/沃钱包&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="bWuk8rQy6wunyqJOEJpp-85" value="&lt;span&gt;m站/手厅/沃钱包&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="467.25" y="50" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="bWuk8rQy6wunyqJOEJpp-110" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="bWuk8rQy6wunyqJOEJpp-95" target="bWuk8rQy6wunyqJOEJpp-96">
